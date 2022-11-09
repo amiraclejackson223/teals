@@ -1,5 +1,6 @@
 # TEALS
 2 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amiraclejackson223/teals/HEAD)
+
 Markdown iconCopy markdown link to clipboard
 3 This is my text under1 level 1. This is for the **Introduction to software technology** class at * Towers High School*! Links are easy to make - the high schools can be found [here] (https://www.towershs.dekalb.k12.ga.us/).
 4
