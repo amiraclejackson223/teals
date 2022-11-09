@@ -45,3 +45,5 @@
 44 | Row 1| value 1 |
 45 | Row 2| Value 2 |
 46  | Row 3 | Value 3 |
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amiraclejackson223/teals/HEAD)
+Markdown iconCopy markdown link to clipboard
